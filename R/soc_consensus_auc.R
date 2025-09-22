@@ -14,8 +14,8 @@
 #' 
 #' 
 #' 
-#' @concept soc
-#' @export
+#' @keywords internal
+#' @noRd
 consensus.auc <- function(clist){
   ## PREPARE
   check_clist(clist, "consensus.auc")

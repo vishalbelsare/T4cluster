@@ -2,8 +2,8 @@
 #' 
 #' 
 #' 
-#' @concept ecdf
-#' @export
+#' @keywords internal
+#' @noRd
 epmedoids <- function(elist, k=2, ...){
   ## PREPROCESSING
   clist    = elist_converter(elist, fname="epmedoids")

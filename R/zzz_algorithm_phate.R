@@ -2,7 +2,8 @@
 #' 
 #' 
 #' 
-#' @export
+#' @keywords internal
+#' @noRd
 testPHATE <- function(X, k=2, par_nbd = 5, par_alpha=2){
   dX = stats::dist(X)
   func.phate <- utils::getFromNamespace("hidden_PHATE", "maotai")

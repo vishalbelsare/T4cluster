@@ -17,7 +17,6 @@ knitr::opts_chunk$set(
 
 <!-- badges: start -->
 [![CRAN status](https://www.r-pkg.org/badges/version/T4cluster)](https://CRAN.R-project.org/package=T4cluster)
-[![Travis build status](https://travis-ci.com/kisungyou/T4cluster.svg?branch=master)](https://travis-ci.com/kisungyou/T4cluster)
 [![](https://cranlogs.r-pkg.org/badges/T4cluster)](https://cran.r-project.org/package=T4cluster)
 <!-- badges: end -->
 

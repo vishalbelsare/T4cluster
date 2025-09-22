@@ -2,8 +2,8 @@
 #' 
 #' 
 #' 
-#' @concept soc
-#' @export
+#' @keywords internal
+#' @noRd
 consensus.pac <- function(clist, lb=0.1, ub=0.9){
   ## PREPARE
   check_clist(clist, "consensus.pac")
